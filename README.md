@@ -1,2 +1,2 @@
 # Symfony
-Begining project
+Initialisation à Symfony
